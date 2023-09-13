@@ -1,3 +1,6 @@
 [submodule "components/arduino-esp32"]
 	path = components/arduino-esp32
 	url = https://github.com/espressif/arduino-esp32
+[submodule "Adafruit_SSD1306"]
+	path = Adafruit_SSD1306
+	url = https://github.com/adafruit/Adafruit_SSD1306
